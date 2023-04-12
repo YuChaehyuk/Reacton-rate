@@ -1,0 +1,43 @@
+.Pic1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 550px;
+}
+
+.Pic4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 250px;
+    left: 510px;
+}   
+
+.Pic5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 250px;
+    left: 1210px;
+}
+
+.Pic6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 70px;
+    left: 810px;
+}
+
+.Pic7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 470px;
+    left: 810px;
+}   
